@@ -1,6 +1,6 @@
 # Número por extenso 
-- Este prejeto converte numeros inteiros em seus respectivos valores por extenso,
-  em português do Brasil. Suporta números negativos e valores inteiros até 999.999
+Este prejeto converte numeros inteiros em seus respectivos valores por extenso,
+em português do Brasil. Suporta números negativos e valores inteiros até 999.999
 
 ## Tecnologias usadas
 - Python 3.x
