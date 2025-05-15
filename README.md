@@ -23,7 +23,7 @@
 - Suporte a números negativos com prefixo "menos".
 
 ## Testes
-- Teste manuais no momento. Você pode digitar diferentes valores e conferir o resultado no console.
+- Teste manuais. No momento você pode digitar diferentes valores e conferir o resultado no console.
 
 ## Melhorias futuras
 - Implementar testes automatizados com unittest ou pytest;
